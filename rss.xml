@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Photography by Rob Rickman]]></title>
+        <description><![CDATA[Photography by Rob Rickman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 21:01:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[E3. Eremasi Rova]]></title>
+            <description><![CDATA[<article><h1>E3. Eremasi Rova</h1><p>Portraits</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc070322ce3fa632223e7364c10ebe0f64531285.jpg"></article>]]></description>
+            <link>undefinedb9e32203-bcc2-4014-aff1-261c0b7ed3e1/index.html</link>
+            <guid isPermaLink="false">b9e32203-bcc2-4014-aff1-261c0b7ed3e1</guid>
+            <pubDate>Sat, 09 Jan 2016 21:01:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
