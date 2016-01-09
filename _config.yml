@@ -1,7 +1,7 @@
 name: Rob Rickman
 favicon: null
-layout_spectrum: 0.08134693116880953
-typography_spectrum: 0.6656702449545264
+layout_spectrum: 0.70425
+typography_spectrum: 0.37418
 title: Photography by Rob Rickman
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.7132443117443472
+    - '#000000'
+    - '#252525'
+    - '#5c5c5c'
+    - '#969696'
+    - '#c8c8c8'
+  brandStrength: 0.75
   lightness: 0.24894082662649453
   saturation: 0.9312049108557403
   rhythmicContrast: 0.8526601339690387
