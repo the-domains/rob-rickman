@@ -1,6 +1,6 @@
 name: Rob Rickman
 favicon: null
-layout_spectrum: 0.70425
+layout_spectrum: 0.45835
 typography_spectrum: 0.37418
 title: Photography by Rob Rickman
 cta:
@@ -22,8 +22,8 @@ color:
     - '#5c5c5c'
     - '#969696'
     - '#c8c8c8'
-  brandStrength: 0.75
+  brandStrength: 0.625
   lightness: 0.24894082662649453
-  saturation: 0.9312049108557403
-  rhythmicContrast: 0.8526601339690387
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
