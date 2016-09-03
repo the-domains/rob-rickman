@@ -28,6 +28,9 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/rob.rickman/'
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/FijiPhoto/'
+    type: external
 favicon: null
 title: Photography by Rob Rickman
 description: 'Lover of Light, Dark, and everything in between.'
