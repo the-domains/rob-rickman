@@ -1,20 +1,4 @@
-name: Rob Rickman
-favicon: null
-layout_spectrum: 0.45835
 typography_spectrum: 0.37418
-title: Photography by Rob Rickman
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-9434408-6
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.24894082662649453
   saturation: 0.875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.45835
+analytics:
+  google: UA-9434408-6
+  facebook: null
+  twitter: null
+name: Rob Rickman
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Photography by Rob Rickman
+description: 'Lover of Light, Dark, and everything in between.'
 purpose: []
